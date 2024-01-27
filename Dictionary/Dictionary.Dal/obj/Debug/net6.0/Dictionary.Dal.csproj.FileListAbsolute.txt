@@ -1,0 +1,14 @@
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\bin\Debug\net6.0\Dictionary.Dal.deps.json
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\bin\Debug\net6.0\Dictionary.Dal.runtimeconfig.json
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\bin\Debug\net6.0\Dictionary.Dal.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\bin\Debug\net6.0\Dictionary.Dal.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\Dictionary.Dal.csproj.AssemblyReference.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\Dictionary.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\Dictionary.Dal.AssemblyInfoInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\Dictionary.Dal.AssemblyInfo.cs
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\Dictionary.Dal.csproj.CoreCompileInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\Dictionary.Dal.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\refint\Dictionary.Dal.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\Dictionary.Dal.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\Dictionary.Dal.genruntimeconfig.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Dal\obj\Debug\net6.0\ref\Dictionary.Dal.dll

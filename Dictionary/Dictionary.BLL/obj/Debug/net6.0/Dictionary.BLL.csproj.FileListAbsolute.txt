@@ -1,0 +1,14 @@
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\bin\Debug\net6.0\Dictionary.BLL.deps.json
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\bin\Debug\net6.0\Dictionary.BLL.runtimeconfig.json
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\bin\Debug\net6.0\Dictionary.BLL.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\bin\Debug\net6.0\Dictionary.BLL.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\Dictionary.BLL.csproj.AssemblyReference.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\Dictionary.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\Dictionary.BLL.AssemblyInfoInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\Dictionary.BLL.AssemblyInfo.cs
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\Dictionary.BLL.csproj.CoreCompileInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\Dictionary.BLL.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\refint\Dictionary.BLL.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\Dictionary.BLL.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\Dictionary.BLL.genruntimeconfig.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.BLL\obj\Debug\net6.0\ref\Dictionary.BLL.dll

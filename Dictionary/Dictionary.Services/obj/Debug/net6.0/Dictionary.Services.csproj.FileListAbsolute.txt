@@ -1,0 +1,17 @@
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\bin\Debug\net6.0\Dictionary.Services.deps.json
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\bin\Debug\net6.0\Dictionary.Services.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\bin\Debug\net6.0\Dictionary.Services.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\bin\Debug\net6.0\Dictionary.BLL.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\bin\Debug\net6.0\Dictionary.Dal.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\bin\Debug\net6.0\Dictionary.BLL.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\bin\Debug\net6.0\Dictionary.Dal.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\Dictionary.Services.csproj.AssemblyReference.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\Dictionary.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\Dictionary.Services.AssemblyInfoInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\Dictionary.Services.AssemblyInfo.cs
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\Dictionary.Services.csproj.CoreCompileInputs.cache
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\Dictionary.Services.csproj.CopyComplete
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\Dictionary.Services.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\refint\Dictionary.Services.dll
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\Dictionary.Services.pdb
+C:\Users\79603\OneDrive\Рабочий стол\Разработка ПО(Шарага)\Dictionary\Dictionary.Services\obj\Debug\net6.0\ref\Dictionary.Services.dll
